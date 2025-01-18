@@ -1,4 +1,4 @@
-#importing random inbuilt library from python
+#importing random inbuilt library
 import random
 print("Welcome to the scrambled word game. Let's start")
  #initializing the words in list

@@ -1,4 +1,4 @@
-#importing random inbuilt library from python
+#importing random inbuilt library
 import random
 print("Let's play a number guesssing game from the range of 20 to 40. Let's start")
  #intializing random range of numbers from 20 to 30
